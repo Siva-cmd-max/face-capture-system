@@ -1,0 +1,8 @@
+venv/
+venv310/
+__pycache__/
+node_modules/
+.env
+uploads/
+*.dll
+*.pyd
